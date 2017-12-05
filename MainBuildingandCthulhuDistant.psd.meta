@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: e4140f98e5f83ce44a79238f16f6d97e
+timeCreated: 1512368305
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DistantCthulhu
+    21300002: MainBuildingandCthulhuDistant_1
+    21300004: CthulhuDistantHand
+    21300006: Main Building
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DistantCthulhu
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 197
+        width: 476
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 162.5, y: -57}
+        - {x: 140.89453, y: -7.207367}
+        - {x: 143.21564, y: 3.4715576}
+        - {x: 135.85782, y: 26.357819}
+        - {x: 216.5, y: 188.94312}
+        - {x: 238, y: 211.20734}
+        - {x: 222.85779, y: 217}
+        - {x: -170.5, y: 215}
+        - {x: -238, y: 138.6789}
+        - {x: -238, y: -89.20737}
+        - {x: -200.5, y: -90}
+        - {x: -146.5, y: -90}
+        - {x: -137.5, y: -80}
+        - {x: -105.413284, y: -84.02304}
+        - {x: -102.34953, y: -47.829376}
+        - {x: -91.42299, y: -69.62204}
+        - {x: -142.66707, y: -176.9064}
+        - {x: -132.66707, y: -217}
+        - {x: -72.764206, y: -217}
+        - {x: -40.5, y: -215}
+        - {x: 4.5, y: -198}
+        - {x: 78.53183, y: -160.40335}
+        - {x: 119.21564, y: -100.75946}
+        - {x: 145.36966, y: -113.26422}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainBuildingandCthulhuDistant_1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 609
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 9}
+        - {x: -16, y: 2}
+        - {x: -16, y: -9}
+        - {x: 1, y: -9}
+        - {x: 15, y: -6}
+        - {x: 16, y: -3}
+        - {x: 16, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CthulhuDistantHand
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 208
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 40.5}
+        - {x: -33, y: 25.5}
+        - {x: -33, y: -40.5}
+        - {x: 33, y: -40.5}
+        - {x: 33, y: 26.5}
+        - {x: 10, y: 40.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main Building
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 17
+        width: 1000
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 231.5}
+        - {x: -99.76785, y: 176.55798}
+        - {x: -116.55542, y: 90.993835}
+        - {x: -122.28192, y: 55.42691}
+        - {x: -143.15454, y: 65.1673}
+        - {x: -184.48041, y: 0.5200043}
+        - {x: -299.22226, y: -66.86598}
+        - {x: -500, y: -65.5}
+        - {x: -500, y: -220.5}
+        - {x: -499, y: -231.5}
+        - {x: 500, y: -231.5}
+        - {x: 500, y: 10.5}
+        - {x: 244, y: 231.5}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
